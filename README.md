@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AltoClown, I’m interested in learning many coding languages, I’m currently learning html, and I’m looking to collaborate on websites
--So if you want to contact me contact me at terastrike457@gmail.com
+-So if you want to contact me, contact me at terastrike457@gmail.com
 
 <!---
 AltoClown/AltoClown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
